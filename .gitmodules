@@ -1,0 +1,3 @@
+[submodule "mabs-patches"]
+	path = mabs-patches
+	url = https://github.com/m-ab-s/mabs-patches
